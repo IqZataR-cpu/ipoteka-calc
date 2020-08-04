@@ -143,6 +143,7 @@ input::-webkit-inner-spin-button {
     width: 100%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     background: #FFFFFF;
     border: 2px solid #E4E6EE;
     height: 50px;
